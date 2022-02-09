@@ -1,0 +1,23 @@
+p {
+  margin: 0;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
+  border-radius: 4px;
+  text-align: center;
+}
+
+button:hover {
+  background-color: #6bb1eb;
+  cursor: pointer;
+}
+
+.textBtn {
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
